@@ -1,7 +1,7 @@
 # Moving red dot
 
 ## Introduction
-This is a game I made in school this year, it's nothing big, it comes packed with way too many bugs. The code is written with c++. I would not recommend you to not even remotely copy this. I used Raylib for this project, and I am aware of the use of if statements. I licensed this MIT because I have a hope a teacher might use this as homework for their students, in a "fix this code" type homework assignment. 
+This is a game I made in school this year, it's nothing big, it comes packed with way too many bugs. The code is written with c++. I would recommend you to not even remotely copy this. I used Raylib for this project, and I am aware of the use of if statements. I licensed this MIT because I have a hope a teacher might use this as homework for their students, in a "fix this code" type homework assignment. 
 
 ### Bugs
 Enemies and the unfinished medpacks should spawn randomly, but they don't. My teacher was unsure about why it was happening as well, maybe some wild github pioneer will find this and fix the problem.
